@@ -11,4 +11,4 @@ spec:
   ports:
     - name: http
       port: 80         # port du Service
-      targetPort: TODO # port du conteneur
+      targetPort: 8080 # port du conteneur
